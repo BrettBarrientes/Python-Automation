@@ -1,4 +1,4 @@
-# Python Automated Transfer Scripts 
+# Python Automated Transfer Scripts
 
 1. Summary of the file_transfer_script 
   - The script's job is to move the files from one directory to another then rename the files according to the number of week in the month       that its in.
